@@ -1,0 +1,15 @@
+{
+  "name": "color-coded-code",
+  "version": "0.1.0",
+  "description": "A script that parses a pre-formatted code string and returns syntactically discrete, stylable HTML elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Puls",
+  "license": "MIT",
+  "dependencies": {
+    "html-react-parser": "^0.13.0",
+    "react": "^16.13.1"
+  }
+}
